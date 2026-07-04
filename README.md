@@ -9,3 +9,4 @@ The model segmented the dataset into 4 groups of customers based on their attrib
 Group 0 has the highest overall income as well as total products purchased, customers from this group also take part in more promotion campaigns. However, group 0 only account a very small portions of the total customers. This urges actions from the company to increase the number of customers in this group.
 
 Group 3 has the second highest overall income as well as total product purchases. This group has the highest number of customers. However, customers in this group seem to neglect the company’s promotion campaigns as they only accepted one or none of the campaigns. Therefore, company should focus on attracting these customers to the promotion campaigns.
+!image.png
