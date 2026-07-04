@@ -1,4 +1,4 @@
-# Customer-Personality-Analysis
+# Customer Personality-Analysis
 This dataset records information of 2240 customers regarding their demographic attributes, products, purchasing behaviours and attitudes toward promotion (through out their acceptance to each promotion campaign).
 
 This project aims to create segments via Unsupervised Machine Learning, by that extract valuable insights from each segments. Through the insights gained, company can adjust their product and promotion campaigns.
